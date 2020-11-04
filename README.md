@@ -1,7 +1,7 @@
 # PNU_3991_AR
 ---------
 ### فایزه صیدی
-- [حساب گیت هاب](https://github.com/faeze-seidy)
+- [حساب گیت هاب](https://github.com/faezeh-seidy)
 - [روزمه](https://faezeh-seidy.github.io)
 
 - [SOP](https://.github.io/SOP/)
