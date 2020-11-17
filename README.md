@@ -1,11 +1,11 @@
 # PNU_3991_AR
 ---------
 ### فایزه صیدی
-- [حساب گیت هاب](https://github.com/faezeh-seidy)
-- [روزمه](https://faezeh-seidy.github.io)
+- [حساب گیت هاب](https://github.com/faezeh-seidi)
+- [روزمه](https://faezeh-seidi.github.io)
 
 - [SOP](https://.github.io/SOP/)
-- [Certificates](https://faezeh-seidy.github.io/Certificate/)
+- [Certificates](https://faezeh-seidi.github.io/Certificate/)
 
 ------------------
 
@@ -13,9 +13,9 @@
 
 ## دروس کارشناسی 
 
-[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/faezeh-seidy/PNU_3991_AR/tree/main/Theory-of_Language-and-Machines)
+[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/faezeh-seidi/PNU_3991_AR/tree/main/Theory-of_Language-and-Machines)
 <br>
-[1322010_01 & 02 2 روش پژوهش و ارائه](https://github.com/faezeh-seidy/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
+[1322010_01 & 02 2 روش پژوهش و ارائه](https://github.com/faezeh-seidi/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
 <br>
 
 --------------
