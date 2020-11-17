@@ -5,7 +5,7 @@
 - [روزمه](https://faezeh-seidi.github.io)
 
 - [SOP](https://.github.io/SOP/)
-- [Certificates](https://faezeh-seidi.github.io/Certificate/)
+- [Certificates](https://faezeh-seidi.github.io/Certificates/)
 
 ------------------
 
