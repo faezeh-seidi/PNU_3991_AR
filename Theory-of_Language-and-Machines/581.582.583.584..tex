@@ -1,0 +1,203 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+\begin{document}
+\begin{flushleft}
+Which of the following statcments is true?\\
+\end{flushleft}
+a)  L is recursive\\
+b)  L is recursively enumerable but not recursive\\
+c)  L is not recursively enumerable\\
+d)  Whether L is recursive or not will be known after we find out if P=NP\\
+\begin{flushleft}
+5. Consider two languages $L_1$ and $L_2$, each on the alphabet $\sum$ Let f:$\sum$$\to$$\sum$ be a polynomial time computable bijection such that ($\forall$x) [x$\in$$L_1$iff f(x)$\in$$L_2$].Further, let $f^{-1}$ be also polynomial time computable.Which of the following cannot be true?\\
+\end{flushleft}
+a)  $L_1$$\in$ P and $L_2$ is finite\\
+b)  $L_1$$\in$ NP and $L_2$$\in$ P\\
+c)  $L_1$ is undecidable and $L_2$is decidable\\
+d)  $L_1$ is recursively enumerable and $L_2$ is recursive\\
+\begin{flushleft}
+6. The problems 3-SAT and 2-SAT are\\
+\end{flushleft}
+a)  Both in\hspace{3cm} b)  Both NP complecte\\
+c)  NP complete and P\hspace{1.2cm} d)  Undecidable and NP complete, respecively\\
+\begin{flushleft}
+7. Consier the following two problems on undependent graphs:\\
+i)  Given G(V,E), does G have an independnt set of size V$-$4?\\
+ii) Given G(V,E), does G have an independnt set of size 5?\\
+Wich one of the following is TRUE?\\ 
+\end{flushleft}
+a) (i) is in P and (ii) is NP complecte\hspace{7mm}b) (i) is NP complecte and (ii) is in P\\
+c) Both (i) and (ii) are NP complecte\hspace{7mm}d)  Both (i) and (ii) are in P\\
+\begin{flushleft}
+8. Let s be an NP-complete problem and Q and R be two other problem not known to be in NP.\\
+Q is polynomial time reducible to S and is polynomial time reducible to R. Which one of the following ststements is true?\\
+\end{flushleft}
+a) R is NP complete\hspace{4cm}b) R is NP hard\\
+c) Q is NP complete\hspace{4cm}d) Q is NP hard\\
+\begin{flushleft}
+9. Let SHA$M_3$ be  the problem of finding a Hamiltonian cycle in a graph G=(V,E) with V divisible by 3 and DHA$M_3$ be the problem of determining if a Hamiltonian cycle exists in such grapghs.\\
+Which one of the folloWing is true?\\
+\end{flushleft}
+a) Both DHA$M_3$ and SAHA$M_3$ are NP hard\\
+b) SAHA$M_3$ is NP hard, but DHA$M_3$ is not\\
+c)  DHA$M_3$ is NP hard, but SAHA$M_3$ is not\\
+d) Neither DHA$M_3$ nor SAHA$M_3$ is NP hard\\
+\begin{flushleft}
+10. Let $\prod_A$ be a problem that belongs to class NP. Then wich one of the following is true?\\
+\end{flushleft} 
+a) Ther is no polynomial time algorithm for  $\prod_A$\\ 
+b) If  $\prod_A$ can be solved deterministically in polynomial time, then P=NP\\
+c) If  $\prod_A$ is NP hard, then it is NP complete\\
+d)  $\prod_A$ may be undecidable.\\
+\begin{flushleft}
+11. The Assuming P $\neq$ NP, wich of the following is true?\\
+\end{flushleft}
+a) NP complete = NP\hspace{3cm}b) NP complete $\cap$ P = $\phi$\\
+c) NP hard = NP\hspace{3.6cm}d) P = NP complete\\
+\begin{flushleft}
+12. The recurrence relation capturing the optimal execution time of the tower of Hanoi problem withn discs is\\ 
+\end{flushleft}
+a) $T(n)=2T(n-2)+2$\hspace{3cm}b) $T(n)=2T(n-1)+n$\\
+c) $T(n)=2T(n/2)+1$\hspace{3cm}d) $T(n)=2T(n-1)+1$\\
+
+\vspace{5mm}
+\begin{flushleft}
+\textbf{582 $\vert$ to Automata Theory, Formal Languages and Computation}
+\end{flushleft}
+\begin{flushleft}
+13. A list of n strings, each of lengh n, is sorted into lexicographic order using the merge-sort algorithm. The worst case running time of this computation is\\ 
+\end{flushleft}
+a) $O(n log n$\hspace{1cm}b) $O(n^2 log n$\hspace{1cm}c) $n^2 + log n$\hspace{1cm}d) $O(n^2$\\
+\begin{flushleft}
+\textbf{Answers:}
+\end{flushleft}
+1. b\hspace{1cm}2. c\hspace{1cm}3. c\hspace{1cm}4. a\hspace{1cm}5. b\hspace{1cm}6. c\hspace{1cm}7. c\hspace{1cm}8. c\\
+9. a\hspace{1cm}10. a\hspace{1cm}11. b\hspace{1cm}12. d\hspace{1cm}13. a\\
+\begin{flushleft}
+\textbf{Hints:}
+\end{flushleft}
+4. Ther are two options $(0+1)^* or \varphi$. Both are regular hence both are recursive.\\
+\hrule\begin{center}
+Exercise
+\end{center}
+\begin{flushleft}
+1. Determine $O(n), \omega(n), and \theta(n)$of the following\\
+\end{flushleft}
+a) $f(n)=3n^2+2log n+1$\\
+b) $f(n)=5n^3-3n^2+5$\\
+c) $f(n)=5n^3-3n^2-5$\\
+d) $f(n)=3n-3log n+2$\\
+\begin{flushleft}
+2. Find the O or the following recurrene relations\\
+\end{flushleft}
+
+\vspace{4mm}
+a) $T(n)= 8T(\frac{n}{2}) + cn^2.$
+
+\vspace{8mm}
+b) $T(n)=\left \{\begin{array}{rr}
+c  & {\rm for }\ n=1 \\
+aT({n\over b}+cn  & {\rm for}\ n>1
+\end{array} \right.$
+
+\vspace{8mm}
+wher n is a power of b
+
+\vspace{3mm}
+c) $T(n)= 4T(\frac{n}{2}+cn^2$
+
+\vspace{8mm}
+d)  $T(n)=\left \{\begin{array}{rr}
+0 & {\rm for }\ n=1 \\
+3T({n\over 2}+n-1  & {\rm for}\ n>1
+\end{array} \right.$\\
+
+\vspace{3mm}
+\begin{flushleft}
+3.Find the time complexity of the following algorithms\\
+\end{flushleft}
+a){ \em bool TsFirstElementNull( Stringl[ ]  strings )\\
+{\\
+if(strings[0] == null)\\
+{\\
+return true;\\
+}\\
+return false;\\
+}}\
+b) {\em for (int i = 0; i < N; i++)\\
+for (int j = i + 1; j < N; j++)\\
+if (A[i] > A[j] )\\
+swap(A[i], A[j])}
+\begin{flushleft}
+3. Given a sorted array A, determine whether it contains two elements with the difference D. Find the time complexity of  the algorithm.\\
+
+\vspace{3mm}
+4. Find the time complexity of heap sort operation.\\
+Find the time complexity of the Lagrange interpolation  polynoial.\\
+
+\vspace{3mm}
+5.Find the time complexity of the Lagrange interpolation polynomial.\\
+
+\vspace{3mm}
+6. Prove that the following problem is in NP.\\
+Given integers n and ther a factor f with 1<f<k and f dividing n?\\
+
+\vspace{3mm}
+7. prove that the subset sum problem is NP complete.\\
+
+\vspace{3mm}
+A set of vertices inside a graph G is an independent set if ther are no edges between any two of these vertices. Prove that for a given graph G and an integer k, "is  G' $ \subseteq G$ an independent set of size k? " an NP complete problem. (Reduce it to 3 CNF or vertex conver.)\\
+
+\vspace{3mm}
+9. Prove that the vertex conver is NP complete by reducing the independent set problem to it.\\
+
+\vspace{3mm}
+10. Prove that the graph colouringmproblem is NP complete.\\
+\end{flushleft}
+\newpage
+\begin{flushleft}
+\textbf{\huge \bf Basics of Compiler Design\hspace{1.5cm} 13}
+\end{flushleft}
+\textbf{\bf Introduction}
+ When we have learnt different programming languages like C, C++ or Java we got familiar with the term compiler. As an example, for C and C++ we have found Turbo C compiler, for Java we have seen Java compiler and so on. Most of the students have a wrong idea that compilation is required only to check the errors. But this is not the only job for a compiler, its job is much wider than error checking. Compiler is basically built on the knowledge of Automata. To learn different phases of compiler we need the knowledge of Finite Automata, Regular Expression, Context Free Grammar etc. Compiler needs a vast discussion, but in this section we shall discuss only those parts which are directly related to Automata.
+ 
+\vspace{5mm}
+\begin{flushleft}
+\textbf{ \bf 13.1 Definition}\\   
+Compiler is a program that takes a program written in a source language and translates it into an equivalent program in a target language. In relation to compiler the source language is human readable  language called High Level Language and target language is machine readable code called machine level language. In the operational process of a compiler it reports the programmer the presence of errors in the source program. The block diagram of compiler is shown in Fig. 13.1.
+\end{flushleft}
+\begin{center}
+\includegraphics[scale=0.8]{s}
+\end{center}
+\begin{flushleft}
+\textbf{13.2 Types of Compiler}\\
+ Compilers are classiﬁ ed mainly into three types according to their operational process.  1. Single pass: In computer programming, a single pass or one-pass compiler is a compiler that scans through the source code of each compilation unit only once. In other words, a singlepass compiler does not ‘look back’ the code it has previously processed. Sometimes single pass
+\end{flushleft}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
