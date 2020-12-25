@@ -4,7 +4,7 @@
 - [حساب گیت هاب](https://github.com/faezeh-seidi)
 - [روزمه](https://faezeh-seidi.github.io)
 
-- [SOP](https://.github.io/SOP/)
+- [SOP](https://faezeh-seidi.github.io/SOP/)
 - [Certificates](https://faezeh-seidi.github.io/Certificates/)
 
 ## گروه ها
