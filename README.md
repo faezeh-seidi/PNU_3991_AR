@@ -30,7 +30,7 @@
 	1. [_LMT02-11_زهرا بشیری خاوری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/11_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A8%D8%B4%D9%8A%D8%B1%D9%8A%20%D8%AE%D8%A7%D9%88%D8%B1%D9%8A)
 	1. [_LMT02-43_شهلا فتح الهی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/43_%D8%B4%D9%87%D9%84%D8%A7%20%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%87%D9%8A)
 	1. [_LMT02-56_ریحانه محرابی مقدم](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/56_%D8%B1%D9%8A%D8%AD%D8%A7%D9%86%D9%87%20%D9%85%D8%AD%D8%B1%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D8%AF%D9%85)
-	1. [_LMT03-08_فائزه سیدی](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/09_%D9%81%D8%A7%D8%A6%D8%B2%D9%87%20%D8%B5%D9%8A%D8%AF%D9%8A/readme.md)
+	1. [_LMT03-08_فائزه صیدی](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/Theory-of-Languages-and-Machines/_1115157_03/09_%D9%81%D8%A7%D8%A6%D8%B2%D9%87%20%D8%B5%D9%8A%D8%AF%D9%8A/readme.md)
 	1. [_LMT01-01_زهرا احمدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/01_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A)
 	1. [_LMT01-14_سید محمد امین جوادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/14_%D8%B3%D9%8A%D8%AF%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%AC%D9%88%D8%A7%D8%AF%D9%8A)
 	1. [_LMT01-025_محمد امین رئیسی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/25_%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%85%D9%8A%D9%86%20%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A)
