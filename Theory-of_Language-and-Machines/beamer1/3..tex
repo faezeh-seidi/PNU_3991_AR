@@ -1,0 +1,56 @@
+\documentclass[a4paper,9pt]{beamer}
+\usepackage[latin1]{inputenc}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{beamer themeshadow}
+\usetheme{Berlin}
+\usecolortheme[named= green]{structure}
+\begin{document}
+\begin{frame}
+\it
+1. Find the complexity of following algorithm.\\
+\includegraphics[scale=0.8]{s}\\
+SOLUTION: IF n = 1,then the result is x. Returning x takes unit time .IF n $ >$ 1, then the algorithm enters into the else part . This part contains a multipplication and a same algorithm repetition up to n-1 time .So, we can write $ T(n-1) +2 if n> 1.$\\
+So, we can write.
+\end{frame}
+\begin{frame}
+\begin{center}
+\includegraphics[scale=0.8]{p}\\
+\end{center}
+\end{frame}
+\begin{frame}
+\it
+2. Write the divide and conquer algorithm for merge sort and find its complexity.[Sri Venkateswara University 2008]\\
+SOLUTION: In merge sort, the n element array is divided into tow halves each with n/2 elements (for n = even), or one with n/2 and the other with n/2 +1 elements. The two halves and merged. The algorithm for performing merge sort is as follows:
+\end{frame}
+\begin{frame}
+\includegraphics[scale=0.5]{a}
+\end{frame}
+\begin{frame}
+\it
+The algorithm{ \small Merge (min, m, max)} is performed in O(n) .The algorithm {\small mergesort (int min, int max)} of n element becomes half when it is called recursively. Thus, the whole algo-rithm takes\\
+\begin{center}
+$T(n) \leq 2T\left(\dfrac{n}{2}\right) +cn $\\
+
+\vspace{3mm}
+$ \leq 2\left[ 2T\left( \dfrac{n}{2^{n}}\right) +c\dfrac{n}{2}\right] +cn $\\
+
+
+\vspace{3mm}
+$ T(n)\leq 2^{2}T\left( \dfrac{n}{2^{2}}\right) +2cn $\\
+..................................\\
+..................................\\
+$ T(n)\leq 2^{i} T\left( \dfrac{n}{2^{i}}\right) +icn $
+
+\vspace{3mm}
+$ If 2^{i} = n, i=log_{2} n $
+
+\vspace{3mm}
+$ T(n) \leq 2^{i}T(1) + cn log_{2} n $\\
+\end{center}
+T(1) =1 (time required to sort a list of one element).\\
+Thus, the complexity of merge sort is O(n $log_{2} n$).
+
+
+\end{frame}
+\end{document}
