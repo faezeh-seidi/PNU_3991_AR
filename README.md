@@ -16,7 +16,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/faezeh-seidi/PNU_3991_AR/blob/main/General/XX_GeneralSection_CheckList_AR_3991.pdf)
 ##  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس روش پژوهش و ارائه]()
-- [خلاصه ارزیابی درس نظریه زبان و ماشین]()
+- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/faezeh-seidi/PNU_3991_AR/blob/main/Theory/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 ------------------
 
 
