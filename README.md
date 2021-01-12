@@ -15,7 +15,7 @@
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/faezeh-seidi/PNU_3991_AR/blob/main/General/XX_CV_CheckList_AR_3991.docx1111.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/faezeh-seidi/PNU_3991_AR/blob/main/General/XX_GeneralSection_CheckList_AR_3991.pdf)
 ##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس روش پژوهش و ارائه]()
+- [خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/faezeh-seidi/PNU_3991_AR/blob/main/XX_ResearchAndPresentationMethods_CheckList_AR_3991/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/faezeh-seidi/PNU_3991_AR/blob/main/Theory/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 ------------------
 
